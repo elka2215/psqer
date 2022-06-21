@@ -1,0 +1,27 @@
+{
+	"@personsTotal": {
+		"placeholders": {
+			"total": {}
+		}
+	},
+	"alive": "Alive",
+	"auth": "Authorization",
+	"close": "Close",
+	"counterValue": "Counter value",
+	"dead": "Dead",
+	"english": "English",
+	"findPerson": "Find a person",
+	"inputErrorCheckLogin": "Check login",
+	"inputErrorCheckPassword": "Check password",
+	"inputErrorLoginIsShort": "Login must contain more than 3 symbols",
+	"inputErrorPasswordIsShort": "Password must contain more than 8 symbols",
+	"inputLoginAndPassword": "Input login and password",
+	"language": "Language",
+	"login": "Login",
+	"noData": "No data",
+	"password": "Password",
+	"personsTotal": "Total persons: {total}",
+	"russian": "Russian",
+	"signIn": "Sign in",
+	"tryAgain": "Try again"
+}
